@@ -26,3 +26,11 @@ if age >= 18:
     print ("You are eligible to vote")
 
 #Multiple Conditions
+age = 14
+if(age < 4):
+    print("Admission is Free !")
+elif (age <18):
+    print("Your Fee is 8$")
+else:
+    print("Your admission cost is 10$")
+
